@@ -1,0 +1,6 @@
+The most known Application Layer protocols
+HTTP/HTTPS
+FTP
+DNS
+SMTP
+SSH
